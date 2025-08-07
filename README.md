@@ -36,7 +36,7 @@ Este proyecto analiza cómo los descuentos aplicados afectan la rentabilidad en 
 
 ## 📷 Vista previa del Dashboard
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](DASHBOARD.pdf)
 
 ---
 
