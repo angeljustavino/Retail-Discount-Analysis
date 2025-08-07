@@ -66,7 +66,7 @@ Las demás hojas fueron creadas por mí como parte del desarrollo de este análi
 ## 📌 Autor
 
 **Angel Justavino**  
-Analista de Datos | Power BI | Python | SQL  
+Data Analyst | Python | SQL | Machine Learning | Apache Spark | Electromechanical Engineer
 [LinkedIn] https://www.linkedin.com/in/angel-justavino-680566288/ 
 
 ---
