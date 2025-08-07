@@ -28,8 +28,8 @@ Este proyecto analiza cómo los descuentos aplicados afectan la rentabilidad en 
 ## 🧾 Contenido del repositorio
 
 - `Retail_Discount_Analysis.pbix`: archivo del dashboard en Power BI.
-- `Dashboard.png`: vista previa del informe.
-- `Retail_Data.xlsx`: archivo con los datos base utilizados.
+- `Dashboard.pdf`: vista previa del informe.
+- `Retail_Strategy_Dashboard_Athharv.xlsx`: archivo con los datos base utilizados.
 - `README.md`: documentación del proyecto.
 
 ---
@@ -42,7 +42,7 @@ Este proyecto analiza cómo los descuentos aplicados afectan la rentabilidad en 
 
 ## ⚙️ Herramientas utilizadas
 
-- [Microsoft Power BI](https://powerbi.microsoft.com/)
+- [Microsoft Power BI]
 - Microsoft Excel
 - GitHub
 
@@ -67,10 +67,6 @@ Las demás hojas fueron creadas por mí como parte del desarrollo de este análi
 
 **Angel Justavino**  
 Analista de Datos | Power BI | Python | SQL  
-[LinkedIn](https://www.linkedin.com) *(añade tu enlace personalizado)*
+[LinkedIn] https://www.linkedin.com/in/angel-justavino-680566288/ 
 
 ---
-
-## 📝 Licencia
-
-Este proyecto es de uso libre para fines educativos y de portafolio. Respeta los créditos al autor original de los datos.
